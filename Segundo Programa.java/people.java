@@ -1,5 +1,5 @@
 package desafio;
-
+//insere a idade e mostra o resultado//
 classe pública Pessoa {
 	Nome corda;
 	Sexo cordas ;
